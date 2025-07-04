@@ -1,0 +1,43 @@
+{
+  "levels": [
+    {
+      "name": "Instructions",
+      "duration": 0,
+      "maxAttempts": 0,
+      "stimuli": [
+        { "image": "up_arrow_tutorial", "correctAnswer": "up" },
+        { "image": "down_arrow_tutorial", "correctAnswer": "down" }
+      ]
+    },
+    {
+      "name": "facil",
+      "duration": 120,
+      "maxAttempts": 3,
+      "stimuli": [
+        { "image": "left_arrow", "correctAnswer": "left" },
+        { "image": "right_arrow", "correctAnswer": "right" },
+        { "image": "up_arrow", "correctAnswer": "up" }
+      ]
+    },
+    {
+      "name": "medio",
+      "duration": 60,
+      "maxAttempts": 2,
+      "stimuli": [
+        { "image": "left_arrow", "correctAnswer": "left" },
+        { "image": "right_arrow", "correctAnswer": "right" },
+        { "image": "up_arrow", "correctAnswer": "up" }
+      ]
+    },
+    {
+      "name": "dificil",
+      "duration": 20,
+      "maxAttempts": 10,
+      "stimuli": [
+        { "image": "left_arrow", "correctAnswer": "left" },
+        { "image": "right_arrow", "correctAnswer": "right" },
+        { "image": "up_arrow", "correctAnswer": "up" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: ffdfcd05cff317c409ef0c3d6460f52d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8758951812613656528
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._0"
+  - first:
+      213: 5077043700442091800
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._1"
+  - first:
+      213: -1511031282206948160
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._2"
+  - first:
+      213: 6914279871965128634
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._3"
+  - first:
+      213: 2844232722606265719
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._4"
+  - first:
+      213: -4792356718272598401
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._5"
+  - first:
+      213: 3950561340883223481
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._6"
+  - first:
+      213: 6302660846510392748
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._7"
+  - first:
+      213: -9036726673458630210
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._8"
+  - first:
+      213: -3934542296498815154
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._9"
+  - first:
+      213: -5173140768462158904
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._10"
+  - first:
+      213: 3640992515116869781
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._11"
+  - first:
+      213: 8765070515228674117
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._12"
+  - first:
+      213: -5608136919446115527
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._13"
+  - first:
+      213: 555816091842292962
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._14"
+  - first:
+      213: -1730268468728543078
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._15"
+  - first:
+      213: 8661179006257059018
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._16"
+  - first:
+      213: -8712842587931837643
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._17"
+  - first:
+      213: -6550022420953316889
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._18"
+  - first:
+      213: -8703447914868798877
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._19"
+  - first:
+      213: -4725494792415079327
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._20"
+  - first:
+      213: 7393005037582207254
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._21"
+  - first:
+      213: -6552910572098011962
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._22"
+  - first:
+      213: 3659926432044982564
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._23"
+  - first:
+      213: -1092634147390619085
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._24"
+  - first:
+      213: 1928557224783843945
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._25"
+  - first:
+      213: -3549345877994449578
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._26"
+  - first:
+      213: -1165187592726050753
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._27"
+  - first:
+      213: -3944174952831690906
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._28"
+  - first:
+      213: -4088358996870017191
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._29"
+  - first:
+      213: -2879498912775527969
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._30"
+  - first:
+      213: -7009504674045710055
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._31"
+  - first:
+      213: -8898613161021592201
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._32"
+  - first:
+      213: 8736208062470407218
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._33"
+  - first:
+      213: 6466581129509732512
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._34"
+  - first:
+      213: 6248367988559264144
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._35"
+  - first:
+      213: -349872053943930763
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._36"
+  - first:
+      213: -3383025302265223278
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._37"
+  - first:
+      213: 2444053842898741744
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._38"
+  - first:
+      213: 4423541564225165693
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._39"
+  - first:
+      213: 5634477660175767933
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._40"
+  - first:
+      213: -3699441611236015007
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._41"
+  - first:
+      213: 8922031217075351861
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._42"
+  - first:
+      213: -4954604980015267991
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._43"
+  - first:
+      213: -5174886362839705359
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._44"
+  - first:
+      213: -8072554364835536452
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._45"
+  - first:
+      213: 5491578744642213883
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._46"
+  - first:
+      213: -8275722114777412190
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._47"
+  - first:
+      213: 7270772628445020247
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._48"
+  - first:
+      213: 3556511681889298943
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._49"
+  - first:
+      213: 2803720377617545995
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._50"
+  - first:
+      213: -765015167492597224
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._51"
+  - first:
+      213: 3899371951166729473
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._52"
+  - first:
+      213: 6120796443192140625
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._53"
+  - first:
+      213: -5051383227858489511
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._54"
+  - first:
+      213: -416131057475403221
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._55"
+  - first:
+      213: 8815820951130662907
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._56"
+  - first:
+      213: 2374157444547872291
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._57"
+  - first:
+      213: 8123101877565626918
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._58"
+  - first:
+      213: -4113790893994987525
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._59"
+  - first:
+      213: 61050128448111267
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._60"
+  - first:
+      213: -9161686806005178181
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._61"
+  - first:
+      213: -8528706271357852340
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._62"
+  - first:
+      213: -1249240490343113763
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._63"
+  - first:
+      213: -6045621048662557627
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._64"
+  - first:
+      213: -3477357335296345711
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._65"
+  - first:
+      213: -3202627992900455029
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._66"
+  - first:
+      213: 4836327125585889238
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._67"
+  - first:
+      213: -3621380195150897338
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._68"
+  - first:
+      213: 8383968553246296933
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._69"
+  - first:
+      213: 4847741299270099507
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._70"
+  - first:
+      213: -7415030321569177826
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._71"
+  - first:
+      213: 1535554088164694124
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._72"
+  - first:
+      213: -1719017295780635456
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._73"
+  - first:
+      213: -247236082307327194
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._74"
+  - first:
+      213: -8933770202424535438
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._75"
+  - first:
+      213: -8311323199606107307
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._76"
+  - first:
+      213: 176324668142105483
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._77"
+  - first:
+      213: 1973623558769661768
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._78"
+  - first:
+      213: -889172170072275475
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._79"
+  - first:
+      213: 1201538922111343130
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._80"
+  - first:
+      213: 1924497006256490086
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._81"
+  - first:
+      213: -8124190038284773807
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._82"
+  - first:
+      213: -990063101591488229
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._83"
+  - first:
+      213: 2596866851271818279
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._84"
+  - first:
+      213: 6460883041689670500
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._85"
+  - first:
+      213: 777487102273889508
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._86"
+  - first:
+      213: 7309753589641949655
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._87"
+  - first:
+      213: 6381134255199464146
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._88"
+  - first:
+      213: -3823914496402440203
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._89"
+  - first:
+      213: -7596619876941587239
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._90"
+  - first:
+      213: -902955735249764002
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._91"
+  - first:
+      213: 3678407000033662972
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._92"
+  - first:
+      213: -1048021962546101933
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._93"
+  - first:
+      213: -5447930740539202508
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._94"
+  - first:
+      213: -6736613580930649671
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._95"
+  - first:
+      213: -390232429098901327
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._96"
+  - first:
+      213: 8372359340921172652
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._97"
+  - first:
+      213: -8337731111364766696
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._98"
+  - first:
+      213: 6783501784882182382
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._99"
+  - first:
+      213: 7141594445155923912
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._100"
+  - first:
+      213: -4022926959731759252
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._101"
+  - first:
+      213: 3344725818765311890
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._102"
+  - first:
+      213: 6446887839852501556
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._103"
+  - first:
+      213: -8673750521721775031
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._104"
+  - first:
+      213: -5011729864003873928
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._105"
+  - first:
+      213: 4389683373324590918
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._106"
+  - first:
+      213: 8627235414482652218
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._107"
+  - first:
+      213: -1985684285023172036
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._108"
+  - first:
+      213: -7077986255931520790
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._109"
+  - first:
+      213: 5384990420199706228
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._110"
+  - first:
+      213: 9164331066993795694
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._111"
+  - first:
+      213: 3031186870336706948
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._112"
+  - first:
+      213: 4703331177186006095
+    second: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+      pantalla o del teclado para indicar la direcci\xF3n correcta._113"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la
+        pantalla o del teclado para indicar la direcci\xF3n correcta._0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 605
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030366cbbb3f17680800000000000000
+      internalID: -8758951812613656528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ecf8cdf2d5384440814a9926b2c7faf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":605.0,"y":474.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Presta atenci\xF3n solo a la fecha central. Utiliza las flechas de la pantalla o del teclado para indicar la direcci\xF3n correcta._0": -8758951812613656528
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

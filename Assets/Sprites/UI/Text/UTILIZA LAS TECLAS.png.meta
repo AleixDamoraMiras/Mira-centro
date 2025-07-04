@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: ea27a991c17846a4387cba75d7217b8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3805606292215679310
+    second: UTILIZA LAS TECLAS_0
+  - first:
+      213: -1550237035016983717
+    second: UTILIZA LAS TECLAS_1
+  - first:
+      213: -4933462918010471544
+    second: UTILIZA LAS TECLAS_2
+  - first:
+      213: -8029409075355001420
+    second: UTILIZA LAS TECLAS_3
+  - first:
+      213: 7257747983677871309
+    second: UTILIZA LAS TECLAS_4
+  - first:
+      213: 3779876979868708575
+    second: UTILIZA LAS TECLAS_5
+  - first:
+      213: 3378947927095201034
+    second: UTILIZA LAS TECLAS_6
+  - first:
+      213: -9087657502647120153
+    second: UTILIZA LAS TECLAS_7
+  - first:
+      213: -8896381365535544748
+    second: UTILIZA LAS TECLAS_8
+  - first:
+      213: 796506307898011310
+    second: UTILIZA LAS TECLAS_9
+  - first:
+      213: 1516662241181765017
+    second: UTILIZA LAS TECLAS_10
+  - first:
+      213: 2500376412118031318
+    second: UTILIZA LAS TECLAS_11
+  - first:
+      213: -353549973241655990
+    second: UTILIZA LAS TECLAS_12
+  - first:
+      213: -6403269608391284181
+    second: UTILIZA LAS TECLAS_13
+  - first:
+      213: 8995840937781434765
+    second: UTILIZA LAS TECLAS_14
+  - first:
+      213: -1124908779124203876
+    second: UTILIZA LAS TECLAS_15
+  - first:
+      213: -7854150326721236651
+    second: UTILIZA LAS TECLAS_16
+  - first:
+      213: 9025830821311301587
+    second: UTILIZA LAS TECLAS_17
+  - first:
+      213: -297051261377120908
+    second: UTILIZA LAS TECLAS_18
+  - first:
+      213: -6827349440511790338
+    second: UTILIZA LAS TECLAS_19
+  - first:
+      213: 7295065320961829977
+    second: UTILIZA LAS TECLAS_20
+  - first:
+      213: -1924238519196952972
+    second: UTILIZA LAS TECLAS_21
+  - first:
+      213: -4468338365678635581
+    second: UTILIZA LAS TECLAS_22
+  - first:
+      213: 2321909299915683745
+    second: UTILIZA LAS TECLAS_23
+  - first:
+      213: -3985729850225010183
+    second: UTILIZA LAS TECLAS_24
+  - first:
+      213: 4110990237759367344
+    second: UTILIZA LAS TECLAS_25
+  - first:
+      213: -1677567520229206395
+    second: UTILIZA LAS TECLAS_26
+  - first:
+      213: 6684979094705304959
+    second: UTILIZA LAS TECLAS_27
+  - first:
+      213: -3734170261681338427
+    second: UTILIZA LAS TECLAS_28
+  - first:
+      213: -4510132018042002289
+    second: UTILIZA LAS TECLAS_29
+  - first:
+      213: 8386925870030776431
+    second: UTILIZA LAS TECLAS_30
+  - first:
+      213: 111316866924384769
+    second: UTILIZA LAS TECLAS_31
+  - first:
+      213: -2312166254954861253
+    second: UTILIZA LAS TECLAS_32
+  - first:
+      213: 7611411806368869791
+    second: UTILIZA LAS TECLAS_33
+  - first:
+      213: 3359989268098233961
+    second: UTILIZA LAS TECLAS_34
+  - first:
+      213: 6438503021280213380
+    second: UTILIZA LAS TECLAS_35
+  - first:
+      213: -7494017357580758798
+    second: UTILIZA LAS TECLAS_36
+  - first:
+      213: -5064705892568589084
+    second: UTILIZA LAS TECLAS_37
+  - first:
+      213: 7948971925831784219
+    second: UTILIZA LAS TECLAS_38
+  - first:
+      213: 1742345459706616420
+    second: UTILIZA LAS TECLAS_39
+  - first:
+      213: 2418885985728014265
+    second: UTILIZA LAS TECLAS_40
+  - first:
+      213: -2355266422156035779
+    second: UTILIZA LAS TECLAS_41
+  - first:
+      213: -6003061726434484680
+    second: UTILIZA LAS TECLAS_42
+  - first:
+      213: 1499156341059240384
+    second: UTILIZA LAS TECLAS_43
+  - first:
+      213: 2930078835249632375
+    second: UTILIZA LAS TECLAS_44
+  - first:
+      213: -609763280694037162
+    second: UTILIZA LAS TECLAS_45
+  - first:
+      213: -8203189306938921851
+    second: UTILIZA LAS TECLAS_46
+  - first:
+      213: -9082869369443641800
+    second: UTILIZA LAS TECLAS_47
+  - first:
+      213: -5737586207471491660
+    second: UTILIZA LAS TECLAS_48
+  - first:
+      213: 8847233189624713401
+    second: UTILIZA LAS TECLAS_49
+  - first:
+      213: -3595181174855570257
+    second: UTILIZA LAS TECLAS_50
+  - first:
+      213: 1787869856080923324
+    second: UTILIZA LAS TECLAS_51
+  - first:
+      213: 5616420865437054669
+    second: UTILIZA LAS TECLAS_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UTILIZA LAS TECLAS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 595
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6924238ad41a64c4780415836147ddc9
+      internalID: 3805606292215679310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a8dd53cfb9620704e93916ef6b8e0aa4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":284.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      UTILIZA LAS TECLAS_0: 3805606292215679310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

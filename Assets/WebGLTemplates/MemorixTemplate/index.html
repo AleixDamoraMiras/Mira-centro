@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Memorix Game</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <script src="Build/build.loader.js"></script>
+</head>
+<body>
+  <div id="unity-container" class="unity-desktop">
+    <canvas id="unity-canvas" width=500 height=950></canvas>
+    <div id="unity-loading-bar">
+      <div id="unity-logo"></div>
+      <div id="unity-progress-bar-empty">
+        <div id="unity-progress-bar-full"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    createUnityInstance(document.querySelector("#unity-canvas"), {
+      dataUrl: "Build/build.data",
+      frameworkUrl: "Build/build.framework.js",
+      codeUrl: "Build/build.wasm",
+      streamingAssetsUrl: "StreamingAssets",
+      companyName: "TuEmpresa",
+      productName: "Memorix Game",
+      productVersion: "1.0"
+    }, (progress) => {
+      document.getElementById("unity-progress-bar-full").style.width = 100 * progress + "%";
+    }).then((unityInstance) => {
+      window.unityInstance = unityInstance;
+    }).catch((message) => {
+      alert("Error al cargar el juego: " + message);
+    });
+  </script>
+
+ <script>
+  const redirectUrlWithUser = "https://memorix.es/session/";
+  const redirectUrlWithoutUser = "https://memorix.es/games-list/";
+
+  function onGameEnded(userId) {
+    const destination = userId && userId.trim() !== ""
+      ? redirectUrlWithUser
+      : redirectUrlWithoutUser;
+
+    setTimeout(() => {
+      window.location.href = destination;
+    }, 1000);
+  }
+
+  window.NotifyGameEnded = function(userIdPtr) {
+    const userId = window.unityInstance.Module.UTF8ToString(userIdPtr);
+    onGameEnded(userId);
+  };
+
+  window.SkipGame = function () {
+    alert("Saltar juego");
+  };
+</script>
+</body>
+</html>

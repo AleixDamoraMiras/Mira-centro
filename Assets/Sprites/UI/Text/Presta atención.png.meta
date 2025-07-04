@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: b533e8867308eed4c85df88cb7c374bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7985209850090683040
+    second: "Presta atenci\xF3n_0"
+  - first:
+      213: -8046158623682376868
+    second: "Presta atenci\xF3n_1"
+  - first:
+      213: 4616001357992589890
+    second: "Presta atenci\xF3n_2"
+  - first:
+      213: -2579849372351778597
+    second: "Presta atenci\xF3n_3"
+  - first:
+      213: -2808755675262441090
+    second: "Presta atenci\xF3n_4"
+  - first:
+      213: -2074569297972909851
+    second: "Presta atenci\xF3n_5"
+  - first:
+      213: 7793433829418654206
+    second: "Presta atenci\xF3n_6"
+  - first:
+      213: 1436943589357996019
+    second: "Presta atenci\xF3n_7"
+  - first:
+      213: -9174831865585708872
+    second: "Presta atenci\xF3n_8"
+  - first:
+      213: 6774776074810866528
+    second: "Presta atenci\xF3n_9"
+  - first:
+      213: -554056277361755952
+    second: "Presta atenci\xF3n_10"
+  - first:
+      213: -4687847236325754744
+    second: "Presta atenci\xF3n_11"
+  - first:
+      213: 1142964575868859441
+    second: "Presta atenci\xF3n_12"
+  - first:
+      213: -313002055255636758
+    second: "Presta atenci\xF3n_13"
+  - first:
+      213: 491066711838349772
+    second: "Presta atenci\xF3n_14"
+  - first:
+      213: -1492002043372406892
+    second: "Presta atenci\xF3n_15"
+  - first:
+      213: -3947352548566957492
+    second: "Presta atenci\xF3n_16"
+  - first:
+      213: -7009729908930141849
+    second: "Presta atenci\xF3n_17"
+  - first:
+      213: 7633072147840755793
+    second: "Presta atenci\xF3n_18"
+  - first:
+      213: 5209855964040748020
+    second: "Presta atenci\xF3n_19"
+  - first:
+      213: -1729946508328469035
+    second: "Presta atenci\xF3n_20"
+  - first:
+      213: 9192762257042483940
+    second: "Presta atenci\xF3n_21"
+  - first:
+      213: 3818790621843030448
+    second: "Presta atenci\xF3n_22"
+  - first:
+      213: 112893109770128234
+    second: "Presta atenci\xF3n_23"
+  - first:
+      213: 2725621898478649788
+    second: "Presta atenci\xF3n_24"
+  - first:
+      213: -8340322664416939882
+    second: "Presta atenci\xF3n_25"
+  - first:
+      213: -7049366190341943902
+    second: "Presta atenci\xF3n_26"
+  - first:
+      213: 8908680726599798481
+    second: "Presta atenci\xF3n_27"
+  - first:
+      213: -4946823955185544051
+    second: "Presta atenci\xF3n_28"
+  - first:
+      213: 4181491231831894327
+    second: "Presta atenci\xF3n_29"
+  - first:
+      213: -6232822750050091499
+    second: "Presta atenci\xF3n_30"
+  - first:
+      213: -2971089329398151173
+    second: "Presta atenci\xF3n_31"
+  - first:
+      213: 4335951690007647458
+    second: "Presta atenci\xF3n_32"
+  - first:
+      213: -1143977435682824684
+    second: "Presta atenci\xF3n_33"
+  - first:
+      213: -1914189072155535052
+    second: "Presta atenci\xF3n_34"
+  - first:
+      213: -114139651428754531
+    second: "Presta atenci\xF3n_35"
+  - first:
+      213: -8057624325379945259
+    second: "Presta atenci\xF3n_36"
+  - first:
+      213: -8097388303682501142
+    second: "Presta atenci\xF3n_37"
+  - first:
+      213: 6670382497713026042
+    second: "Presta atenci\xF3n_38"
+  - first:
+      213: 8558062624387107654
+    second: "Presta atenci\xF3n_39"
+  - first:
+      213: 1531656405054541318
+    second: "Presta atenci\xF3n_40"
+  - first:
+      213: 2982872161549335449
+    second: "Presta atenci\xF3n_41"
+  - first:
+      213: -6265346738686356182
+    second: "Presta atenci\xF3n_42"
+  - first:
+      213: -6144957527396831679
+    second: "Presta atenci\xF3n_43"
+  - first:
+      213: -4170327890683434289
+    second: "Presta atenci\xF3n_44"
+  - first:
+      213: 4691191636276538454
+    second: "Presta atenci\xF3n_45"
+  - first:
+      213: -4774067183110511577
+    second: "Presta atenci\xF3n_46"
+  - first:
+      213: -3060514261941038237
+    second: "Presta atenci\xF3n_47"
+  - first:
+      213: -2347255105916888552
+    second: "Presta atenci\xF3n_48"
+  - first:
+      213: 2852235646091708708
+    second: "Presta atenci\xF3n_49"
+  - first:
+      213: 6130820036156771295
+    second: "Presta atenci\xF3n_50"
+  - first:
+      213: 1190455869087511436
+    second: "Presta atenci\xF3n_51"
+  - first:
+      213: 5679140613791811478
+    second: "Presta atenci\xF3n_52"
+  - first:
+      213: 5026741684766014989
+    second: "Presta atenci\xF3n_53"
+  - first:
+      213: 6958627278352184725
+    second: "Presta atenci\xF3n_54"
+  - first:
+      213: -235172946218875427
+    second: "Presta atenci\xF3n_55"
+  - first:
+      213: 1516802598118389965
+    second: "Presta atenci\xF3n_56"
+  - first:
+      213: -1233327479057605557
+    second: "Presta atenci\xF3n_57"
+  - first:
+      213: 8997291267855764096
+    second: "Presta atenci\xF3n_58"
+  - first:
+      213: 7768312928595509806
+    second: "Presta atenci\xF3n_59"
+  - first:
+      213: -8798039020998354859
+    second: "Presta atenci\xF3n_60"
+  - first:
+      213: -2718088389068808805
+    second: "Presta atenci\xF3n_61"
+  - first:
+      213: -3470575531837870447
+    second: "Presta atenci\xF3n_62"
+  - first:
+      213: 5462142585256582318
+    second: "Presta atenci\xF3n_63"
+  - first:
+      213: -6729493341346242515
+    second: "Presta atenci\xF3n_64"
+  - first:
+      213: 6925190530073938442
+    second: "Presta atenci\xF3n_65"
+  - first:
+      213: -6463824490664689775
+    second: "Presta atenci\xF3n_66"
+  - first:
+      213: -188849681973679264
+    second: "Presta atenci\xF3n_67"
+  - first:
+      213: -7756522716660083797
+    second: "Presta atenci\xF3n_68"
+  - first:
+      213: -2690713723695403489
+    second: "Presta atenci\xF3n_69"
+  - first:
+      213: 4681667492188159692
+    second: "Presta atenci\xF3n_70"
+  - first:
+      213: 920193096042481970
+    second: "Presta atenci\xF3n_71"
+  - first:
+      213: -9150085602870571707
+    second: "Presta atenci\xF3n_72"
+  - first:
+      213: -2615934368032974483
+    second: "Presta atenci\xF3n_73"
+  - first:
+      213: -8899363105909524426
+    second: "Presta atenci\xF3n_74"
+  - first:
+      213: 6496621731274331655
+    second: "Presta atenci\xF3n_75"
+  - first:
+      213: 6829683622752510495
+    second: "Presta atenci\xF3n_76"
+  - first:
+      213: -7401176705610620832
+    second: "Presta atenci\xF3n_77"
+  - first:
+      213: -6208219178391063023
+    second: "Presta atenci\xF3n_78"
+  - first:
+      213: -4708813123990651497
+    second: "Presta atenci\xF3n_79"
+  - first:
+      213: 8770124994801754591
+    second: "Presta atenci\xF3n_80"
+  - first:
+      213: 8464091672025597744
+    second: "Presta atenci\xF3n_81"
+  - first:
+      213: 2128907040417069905
+    second: "Presta atenci\xF3n_82"
+  - first:
+      213: -4475660416682274281
+    second: "Presta atenci\xF3n_83"
+  - first:
+      213: 9170260633654137853
+    second: "Presta atenci\xF3n_84"
+  - first:
+      213: 9124272518232179633
+    second: "Presta atenci\xF3n_85"
+  - first:
+      213: -7993143141073695573
+    second: "Presta atenci\xF3n_86"
+  - first:
+      213: -7190339596746122601
+    second: "Presta atenci\xF3n_87"
+  - first:
+      213: 6408128290678438419
+    second: "Presta atenci\xF3n_88"
+  - first:
+      213: -7504878818053077967
+    second: "Presta atenci\xF3n_89"
+  - first:
+      213: 6534847932406472840
+    second: "Presta atenci\xF3n_90"
+  - first:
+      213: -5811950484084545358
+    second: "Presta atenci\xF3n_91"
+  - first:
+      213: -8162260855457656782
+    second: "Presta atenci\xF3n_92"
+  - first:
+      213: 2336602300649564295
+    second: "Presta atenci\xF3n_93"
+  - first:
+      213: -2813128204925038357
+    second: "Presta atenci\xF3n_94"
+  - first:
+      213: 473265690451695868
+    second: "Presta atenci\xF3n_95"
+  - first:
+      213: 107514623839295856
+    second: "Presta atenci\xF3n_96"
+  - first:
+      213: 7807649134816110796
+    second: "Presta atenci\xF3n_97"
+  - first:
+      213: -388259418911502457
+    second: "Presta atenci\xF3n_98"
+  - first:
+      213: 7943990691736301919
+    second: "Presta atenci\xF3n_99"
+  - first:
+      213: -1942370662572469222
+    second: "Presta atenci\xF3n_100"
+  - first:
+      213: -2415971479303840731
+    second: "Presta atenci\xF3n_101"
+  - first:
+      213: -6749557862370877601
+    second: "Presta atenci\xF3n_102"
+  - first:
+      213: -8690571903354404419
+    second: "Presta atenci\xF3n_103"
+  - first:
+      213: 3373400125782102975
+    second: "Presta atenci\xF3n_104"
+  - first:
+      213: 6740319014409583573
+    second: "Presta atenci\xF3n_105"
+  - first:
+      213: 4811011618218777467
+    second: "Presta atenci\xF3n_106"
+  - first:
+      213: -2149751807080605260
+    second: "Presta atenci\xF3n_107"
+  - first:
+      213: -6184765311502701847
+    second: "Presta atenci\xF3n_108"
+  - first:
+      213: -2534612979932853601
+    second: "Presta atenci\xF3n_109"
+  - first:
+      213: -1983221355921247343
+    second: "Presta atenci\xF3n_110"
+  - first:
+      213: 226268164034195974
+    second: "Presta atenci\xF3n_111"
+  - first:
+      213: -7653938071601560417
+    second: "Presta atenci\xF3n_112"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Presta atenci\xF3n_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 547
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de845b24c78f31479cd27cfd4f4d711
+      internalID: 1058839756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc4194b80c24e454fb1e75d6b66e701d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":284.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Presta atenci\xF3n_0": 1058839756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

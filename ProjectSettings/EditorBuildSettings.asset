@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: e8a2f6bdfaf58524a8650f9454b3a2f3
+  - enabled: 1
+    path: Assets/Scenes/Selector.unity
+    guid: c6450d0ad61c0f74587c03ffec92207d
+  - enabled: 1
+    path: Assets/Scenes/DifficultySelection.unity
+    guid: ead77c87190c0a44481bf7481671838a
+  - enabled: 1
+    path: Assets/Scenes/DiffToInst.unity
+    guid: 31aa821fd0e6cd143b22801d6ab36684
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 321a8972a3a86c646a86bf704cb448fe
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: ff38586d6f41cfb48a51f1306d3dcd10
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
